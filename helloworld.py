@@ -13,4 +13,8 @@ print ("im a goat")
 # you will get somehitng called syntax error or bugs let me show you
 
 print (" im a goat")
-print ("killing my brain with basic lol")
+print ("killing my brain with basic lol") 
+help
+
+
+print ("im a noob")
